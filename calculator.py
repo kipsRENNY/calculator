@@ -11,3 +11,5 @@ elif myoperator=="*":
 elif myoperator=="/":
     print(firstnumber/secondnumber)
 else:
+    print("invalid")
+
